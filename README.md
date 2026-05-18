@@ -17,6 +17,7 @@ After finding results, you can jump directly to each line in the InDesign docume
 - Set an automatic tracking allowance
 - Supports English, Korean, Japanese, Simplified Chinese, and Traditional Chinese
 - Supports dark and light UI modes
+- A 30-day free trial is available. After the trial period, the subscription is billed yearly through Adobe Marketplace unless canceled.
 
 ## How to use
 
